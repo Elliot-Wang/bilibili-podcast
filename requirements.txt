@@ -1,1 +1,2 @@
 streamlit
+bilibili-api-python
